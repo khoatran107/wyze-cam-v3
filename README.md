@@ -1,5 +1,7 @@
 # Wyze Cam V3 For-Fun Exploit
 
+![shell](images/shell.png)
+
 📝 **Full write-up:** [blog.ktranowl.site/posts/wyze-cam-v3](https://blog.ktranowl.site/posts/wyze-cam-v3/)
 
 ## Layout
